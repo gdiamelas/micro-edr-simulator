@@ -29,7 +29,7 @@ The application mimics a security agent checking running applications:
 ## Dynamic Development (AI-Assisted Learning)
 This project was developed with the assistance of Artificial Intelligence (AI) for educational and research purposes. AI was utilized as a tool to accelerate the learning process, refine coding logic, and structure the initial architectural concept of signature matching. All code and methodologies have been thoroughly analyzed, documented, and verified to ensure deep technical understanding of low-level security systems.
 
-##--- Cybersecurity Process Monitor Tool v1.0 ---
+## --- Cybersecurity Process Monitor Tool v1.0 ---
 
 Scanning active system processes...
 [✔] Process chrome.exe clean.
