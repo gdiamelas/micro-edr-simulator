@@ -8,6 +8,7 @@ A lightweight, cross-platform C program that simulates the core functionality of
 * **Signature-Based Detection:** Identifies known threats using string-matching algorithms (`strcmp`).
 * **Cross-Platform Simulation:** Written in pure C (`stdio.h`, `string.h`), allowing it to run seamlessly on Windows, Linux, and macOS without OS-specific dependencies.
 * **Modular Design:** Easily expandable blacklist and active process array for testing custom scenarios.
+* **Open-Source Governance:** Released under the MIT License, ensuring clean open-source compliance and proper software licensing standards.
 
 ---
 
@@ -22,7 +23,7 @@ The application mimics a security agent checking running applications:
 ## Technical Stack & Skills Demonstrated
 * **Language:** C (C99 Standard)
 * **Concepts:** Array manipulation, String handling, Pointers, Security automation logic.
-* **Cybersecurity Framework:** Threat Detection, Signature Analysis.
+* **Cybersecurity Framework:** Threat Detection, Signature Analysis, Software Governance.
 
 ---
 
@@ -31,7 +32,10 @@ This project was developed with the assistance of Artificial Intelligence (AI) f
 
 ---
 
-## --- Cybersecurity Process Monitor Tool v1.0 ---
+## Target Output Structure
+
+```text
+--- Cybersecurity Process Monitor Tool v1.0 ---
 
 Scanning active system processes...
 [✔] Process chrome.exe clean.
